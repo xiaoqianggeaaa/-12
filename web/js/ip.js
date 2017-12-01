@@ -1,0 +1,1 @@
+newIp = 'http://localhost:88/';
